@@ -62,7 +62,7 @@
     "lua"
   ],
   "engines": {
-    "node": ">= 4"
+    "node": ">= 20"
   },
   "author": "Lewis J Ellis <me@lewisjellis.com>",
   "contributors": [
